@@ -1,0 +1,22 @@
+#TITLE: Building Web Application
+#+AUTHER:
+#+DATE: [2016-05-17 Thu]
+#+PROPERTY:
+#+SETUPFILE:
+
+* Version 0.1
+* Introduction
+  web Application 
+* SDLC
+** client requirements
+** Data Model (design)
+** Object Implementation
+** Object Relational Model
+** REST API
+** Fron End
+** Deployment specifiction
+** Unit Testing 
+** Docmentation
+** Planning & tracking issue
+** versioning 
+
