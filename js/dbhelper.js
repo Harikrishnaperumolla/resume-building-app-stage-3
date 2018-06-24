@@ -20,10 +20,10 @@ class DBHelper {
   }
 
   /**
-  * Fetch all Profile.
+  * Fetch Profile by id.
   */
   static fetchProfile(id) {
-    // Fetch profiles from network
+    // Fetch profile by id from network
     // todo
   }
 
