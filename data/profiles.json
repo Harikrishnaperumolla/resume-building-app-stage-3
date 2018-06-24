@@ -1,0 +1,41 @@
+[
+  {
+    "id": "AO0415055",
+    "name": "Jagan Moahan G",
+    "stream": "Computer Science and Engineering",
+    "university": "JNTU Kakinada",
+    "pic": "no-profile.PNG",
+    "socialLinks": [
+      {"network":"github", "url": "#"},
+      {"network":"twitter", "url": "#"},
+      {"network":"linkedin", "url": "#"},
+      {"network":"facebook", "url": "#"}
+    ]
+  },
+  {
+    "id": "AO0415056",
+    "name": "Hanuman Kumar",
+    "stream": "Computer Science and Engineering",
+    "university": "JNTU Kakinada",
+    "pic": "no-profile.PNG",
+    "socialLinks": [
+      {"network":"github", "url": "#"},
+      {"network":"twitter", "url": "#"},
+      {"network":"linkedin", "url": "#"},
+      {"network":"facebook", "url": "#"}
+    ]
+  },
+  {
+    "id": "AO0415057",
+    "name": "Divya T",
+    "stream": "Computer Science and Engineering",
+    "university": "JNTU Kakinada",
+    "pic": "no-profile.PNG",
+    "socialLinks": [
+      {"network":"github", "url": "#"},
+      {"network":"twitter", "url": "#"},
+      {"network":"linkedin", "url": "#"},
+      {"network":"facebook", "url": "#"}
+    ]
+  }
+]
